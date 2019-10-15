@@ -1,0 +1,99 @@
+--- WEEK 1 ---
+Max - Yuhan
+Aneri - Vivek
+Bryan - Steve
+Jessica - Stephanie
+Kevin - Sam
+Michael - Natalia
+
+
+--- WEEK 2 ---
+Max - Steve
+Vivek - Stephanie
+Yuhan - Sam
+Aneri - Natalia
+Bryan - Michael
+Jessica - Kevin
+
+
+--- WEEK 3 ---
+Max - Bryan
+Jessica - Aneri
+Kevin - Yuhan
+Michael - Vivek
+Natalia - Steve
+Sam - Stephanie
+
+
+--- WEEK 4 ---
+Max - Natalia
+Sam - Michael
+Stephanie - Kevin
+Steve - Jessica
+Vivek - Bryan
+Yuhan - Aneri
+
+
+--- WEEK 5 ---
+Max - Stephanie
+Steve - Sam
+Vivek - Natalia
+Yuhan - Michael
+Aneri - Kevin
+Bryan - Jessica
+
+
+--- WEEK 6 ---
+Max - Jessica
+Kevin - Bryan
+Michael - Aneri
+Natalia - Yuhan
+Sam - Vivek
+Stephanie - Steve
+
+
+--- WEEK 7 ---
+Max - Kevin
+Michael - Jessica
+Natalia - Bryan
+Sam - Aneri
+Stephanie - Yuhan
+Steve - Vivek
+
+
+--- WEEK 8 ---
+Max - Vivek
+Yuhan - Steve
+Aneri - Stephanie
+Bryan - Sam
+Jessica - Natalia
+Kevin - Michael
+
+
+--- WEEK 9 ---
+Max - Sam
+Stephanie - Natalia
+Steve - Michael
+Vivek - Kevin
+Yuhan - Jessica
+Aneri - Bryan
+
+
+--- WEEK 10 ---
+Max - Aneri
+Bryan - Yuhan
+Jessica - Vivek
+Kevin - Steve
+Michael - Stephanie
+Natalia - Sam
+
+
+--- WEEK 11 ---
+Max - Michael
+Natalia - Kevin
+Sam - Jessica
+Stephanie - Bryan
+Steve - Aneri
+Vivek - Yuhan
+
+
